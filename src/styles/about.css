@@ -1,0 +1,10 @@
+.abt-content {
+  /* height: 30pc; */
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  display: flex;
+  margin-top: 15pc;
+  margin-bottom: 9pc;
+  font-size: 18px;
+}
