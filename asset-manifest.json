@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.bd5b25f9.css",
+    "main.js": "/portfolio/static/js/main.a884bc2f.js",
+    "static/js/787.7da95b79.chunk.js": "/portfolio/static/js/787.7da95b79.chunk.js",
+    "static/media/Sarvagn_Pathak_Resume.pdf": "/portfolio/static/media/Sarvagn_Pathak_Resume.83a30bf63c10aab4336b.pdf",
+    "index.html": "/portfolio/index.html",
+    "main.bd5b25f9.css.map": "/portfolio/static/css/main.bd5b25f9.css.map",
+    "main.a884bc2f.js.map": "/portfolio/static/js/main.a884bc2f.js.map",
+    "787.7da95b79.chunk.js.map": "/portfolio/static/js/787.7da95b79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd5b25f9.css",
+    "static/js/main.a884bc2f.js"
+  ]
+}
