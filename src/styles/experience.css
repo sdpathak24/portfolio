@@ -9,6 +9,10 @@
   padding-bottom: 3px;
 }
 
+.container h2:hover {
+  cursor: pointer;
+}
+
 .timeline {
   display: flex;
   flex-direction: column;

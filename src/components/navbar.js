@@ -1,13 +1,36 @@
-import { React } from "react";
+import React, { useState, useEffect, useRef } from "react";
 import { FaLinkedin, FaGithub, FaXTwitter } from "react-icons/fa6";
 import { IoMailSharp } from "react-icons/io5";
 import { SiHackerone } from "react-icons/si";
 import "../styles/navbar.css";
 
 const Navbar = () => {
+  const wrapperRef = useRef(null);
+  const [isScrolled, setIsScrolled] = useState(false);
+
+  useEffect(() => {
+    const handleScroll = () => {
+      const scrollTop = window.scrollY;
+
+      if (scrollTop > 0 && !isScrolled) {
+        setIsScrolled(true);
+        wrapperRef.current.classList.add("scrolled");
+      } else if (scrollTop === 0 && isScrolled) {
+        setIsScrolled(false);
+        wrapperRef.current.classList.remove("scrolled");
+      }
+    };
+
+    window.addEventListener("scroll", handleScroll);
+
+    return () => {
+      window.removeEventListener("scroll", handleScroll);
+    };
+  }, [isScrolled]);
+
   return (
     <div>
-      <div className="wrapper">
+      <div ref={wrapperRef} className="wrapper">
         <div className="name">S D Pathak</div>
         <div className="socials">
           <a href="https://www.linkedin.com/in/sarvagn-pathak-482274247/" target="_blank" rel="noopener noreferrer">
