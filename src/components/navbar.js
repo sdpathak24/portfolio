@@ -33,9 +33,6 @@ const Navbar = () => {
       <div ref={wrapperRef} className="wrapper">
         <div className="name">S D Pathak</div>
         <div className="socials">
-          <a href="" onClick={toggleDarkMode}>
-            <FiMoon />
-          </a>
           <a href="https://www.linkedin.com/in/sarvagn-pathak-482274247/" target="_blank" rel="noopener noreferrer">
             <FaLinkedin />
           </a>
