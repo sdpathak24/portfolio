@@ -45,7 +45,7 @@
   top: 0;
   bottom: 0;
   width: 1px;
-  background-color: gray; /* Set the color of the line */
+  background-color: black; /* Set the color of the line */
   transform: translateX(-50%);
 }
 
