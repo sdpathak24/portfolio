@@ -57,6 +57,10 @@ h3 {
   position: relative;
 }
 
+.desc {
+  color: black;
+}
+
 .desc ul {
   padding: 0 15px;
   margin: 0;

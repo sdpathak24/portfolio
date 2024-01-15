@@ -10,6 +10,7 @@ const Experience = () => {
     setIsTimelineVisible(!isTimelineVisible);
     setIsIconRotated(!isIconRotated);
   };
+
   return (
     <div className="container">
       <h2 onClick={toggleTimelineVisibility}>
