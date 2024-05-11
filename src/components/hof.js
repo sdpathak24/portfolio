@@ -10,11 +10,11 @@ const hof = () => {
       <div className="orgs">
         <div className="org">
           <img src={bu_cert} alt="" />
-          <p>BU-CERT</p>
+          <h4>BU-CERT</h4>
         </div>
         <div className="org">
           <img src={basf} alt="" />
-          <p>basf</p>
+          <h4>basf</h4>
         </div>
       </div>
     </div>
