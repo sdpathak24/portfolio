@@ -1,4 +1,4 @@
-import { React } from "react";
+import React from "react";
 import { FaLinkedin, FaGithub, FaXTwitter } from "react-icons/fa6";
 import { IoMailSharp } from "react-icons/io5";
 import { SiHackerone } from "react-icons/si";
