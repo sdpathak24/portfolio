@@ -1,0 +1,59 @@
+.container {
+  max-width: 960px;
+  padding: 0 20px;
+  margin: 70px auto;
+}
+
+.container h2 {
+  border-bottom: solid;
+  padding-bottom: 3px;
+}
+
+.timeline {
+  display: flex;
+  flex-direction: column;
+}
+
+.timeline-item {
+  display: flex;
+  align-items: flex-start;
+  padding: 10px;
+  position: relative;
+}
+
+.date {
+  flex: 1; /* Make the date take up available space */
+  column-count: 2;
+}
+
+.right {
+  flex: 3 1; /* Make the content take up available space */
+}
+
+.post {
+  font-weight: 800;
+}
+
+.timeline-item::before {
+  content: "";
+  position: absolute;
+  left: 20%;
+  top: 0;
+  bottom: 0;
+  width: 1px;
+  background-color: #000; /* Set the color of the line */
+  transform: translateX(-50%);
+}
+
+.temp {
+  height: 100vh;
+}
+
+@media only screen and (max-width: 495px) {
+  .date {
+    column-count: 1;
+  }
+  .timeline-item::before {
+    left: 25%;
+  }
+}

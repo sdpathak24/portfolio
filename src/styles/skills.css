@@ -1,0 +1,85 @@
+.box-wrapper {
+  display: flex;
+  justify-content: center;
+}
+.box {
+  background: white;
+  border-radius: 20px;
+  column-count: 2;
+  padding: 20px;
+  max-width: 630px;
+  margin: 10px;
+  width: 100%;
+}
+
+.skill-box {
+  display: flex;
+  flex-direction: column;
+  padding: 15px;
+}
+
+h3 {
+  margin: 0;
+  padding: 10px 0;
+}
+
+.dots {
+  display: flex;
+}
+
+.filled-dot,
+.empty-dot {
+  width: 10px;
+  height: 10px;
+  margin: 0 3px;
+  background-color: #333; /* Adjust the color as needed */
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.empty-dot {
+  background-color: #ddd; /* Adjust the color as needed */
+}
+
+.projects {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.project-box {
+  background: white;
+  border-radius: 20px;
+  padding: 20px;
+  max-width: 250px;
+  margin: 16px;
+  height: 300px;
+  position: relative;
+}
+
+.desc ul {
+  padding: 0 15px;
+  margin: 0;
+}
+
+.link {
+  font-size: 35px;
+  display: flex;
+  justify-content: space-evenly;
+  position: absolute;
+  bottom: 10px;
+  left: 50%;
+  transform: translate(-50%);
+  width: 100%;
+}
+
+.link a {
+  text-decoration: none;
+  color: black;
+}
+
+@media only screen and (max-width: 495px) {
+  .box {
+    column-count: 1;
+  }
+}
