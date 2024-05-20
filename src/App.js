@@ -4,7 +4,7 @@ import Skills from "./components/skills";
 import Resume from "./components/resume";
 import Experience from "./components/experience";
 import Hof from "./components/hof";
-import papers from "./components/papers";
+import Papers from "./components/papers";
 // import Referals from "./components/referals";
 import Projects from "./components/projects";
 
@@ -16,8 +16,8 @@ function App() {
       <Experience />
       <Skills />
       <Hof />
-      <papers />
       <Projects />
+      <Papers />
       {/*<Referals /> */}
       <Resume />
     </div>
