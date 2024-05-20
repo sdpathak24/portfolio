@@ -25,3 +25,9 @@
   height: 90px;
   filter: grayscale(1);
 }
+
+@media only screen and (max-width: 495px) {
+  .orgs {
+    flex-direction: column;
+  }
+}
