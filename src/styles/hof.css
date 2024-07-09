@@ -12,18 +12,26 @@
 .orgs {
   display: flex;
   align-items: center;
-  justify-content: space-around;
+  /* justify-content: space-around; */
+  flex-wrap: wrap;
 }
 
 .org {
   display: flex;
   flex-direction: column;
   align-items: center;
+  width: 50%;
+  text-align: center;
+  margin-bottom: 20px;
 }
 
-.org img {
+/* .org img {
   height: 90px;
-  filter: grayscale(1);
+} */
+
+.org h4 {
+  margin: 0;
+  margin-bottom: 20px;
 }
 
 @media only screen and (max-width: 495px) {
