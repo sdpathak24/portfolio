@@ -1,17 +1,19 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.070f01e0.css",
-    "main.js": "/portfolio/static/js/main.dbd772e2.js",
+    "main.css": "/portfolio/static/css/main.1b636de8.css",
+    "main.js": "/portfolio/static/js/main.3b1201b8.js",
     "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
-    "static/media/basf.png": "/portfolio/static/media/basf.5b9fc538957ef4c1c887.png",
-    "static/media/bu_cert.png": "/portfolio/static/media/bu_cert.8d79795605cd62e78286.png",
+    "static/media/who.png": "/portfolio/static/media/who.ee4611b7a766c7d37df5.png",
+    "static/media/nasa.png": "/portfolio/static/media/nasa.41e8e029625c7ec744ad.png",
+    "static/media/uu.png": "/portfolio/static/media/uu.8910770abe7378e2a38e.png",
+    "static/media/bu_cert.png": "/portfolio/static/media/bu_cert.c2149e0f957eac7ce739.png",
     "index.html": "/portfolio/index.html",
-    "main.070f01e0.css.map": "/portfolio/static/css/main.070f01e0.css.map",
-    "main.dbd772e2.js.map": "/portfolio/static/js/main.dbd772e2.js.map",
+    "main.1b636de8.css.map": "/portfolio/static/css/main.1b636de8.css.map",
+    "main.3b1201b8.js.map": "/portfolio/static/js/main.3b1201b8.js.map",
     "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.070f01e0.css",
-    "static/js/main.dbd772e2.js"
+    "static/css/main.1b636de8.css",
+    "static/js/main.3b1201b8.js"
   ]
 }
