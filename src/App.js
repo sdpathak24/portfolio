@@ -1,7 +1,7 @@
 import Navbar from "./components/navbar";
 import About from "./components/about";
 import Skills from "./components/skills";
-// import Resume from "./components/resume";
+import Resume from "./components/resume";
 import Experience from "./components/experience";
 import Hof from "./components/hof";
 import Papers from "./components/papers";
