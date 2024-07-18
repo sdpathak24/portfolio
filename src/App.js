@@ -19,7 +19,7 @@ function App() {
       <Papers />
       <Projects />
       {/*<Referals /> */}
-      {/*<Resume />*/}
+      <Resume />
     </div>
   );
 }
