@@ -19,9 +19,6 @@ const Navbar = () => {
           <a href="https://www.twitter.com/sdpathak24" target="_blank" rel="noopener noreferrer">
             <FaXTwitter />
           </a>
-          <a href="http://" target="_blank" rel="noopener noreferrer">
-            <SiHackerone />
-          </a>
           <a href="mailto: sarvagnpathak03@gmail.com">
             <IoMailSharp />
           </a>
