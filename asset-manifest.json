@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.b04fb091.css",
-    "main.js": "/portfolio/static/js/main.4c8d8e76.js",
+    "main.js": "/portfolio/static/js/main.2a06bbb2.js",
     "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
     "static/media/sarvagn_pathak_resume.pdf": "/portfolio/static/media/sarvagn_pathak_resume.f7846a724944586631ab.pdf",
     "static/media/who.png": "/portfolio/static/media/who.ee4611b7a766c7d37df5.png",
@@ -11,11 +11,11 @@
     "static/media/basf.png": "/portfolio/static/media/basf.18a46aa8b1cf87ec889f.png",
     "index.html": "/portfolio/index.html",
     "main.b04fb091.css.map": "/portfolio/static/css/main.b04fb091.css.map",
-    "main.4c8d8e76.js.map": "/portfolio/static/js/main.4c8d8e76.js.map",
+    "main.2a06bbb2.js.map": "/portfolio/static/js/main.2a06bbb2.js.map",
     "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b04fb091.css",
-    "static/js/main.4c8d8e76.js"
+    "static/js/main.2a06bbb2.js"
   ]
 }
