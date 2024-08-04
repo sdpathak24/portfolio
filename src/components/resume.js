@@ -1,6 +1,6 @@
 import React from "react";
 // import File from "../file/Sarvagn_Pathak_Resume.pdf";
-import File from "../file/sarvagn_pathak_resume.pdf";
+import File from "../file/Sarvagn_Pathak_Resume.pdf";
 import { MdOutlineFileDownload } from "react-icons/md";
 import "../styles/resume.css";
 

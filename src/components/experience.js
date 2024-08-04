@@ -7,7 +7,7 @@ const Experience = () => {
       <h2>Experience</h2>
       <div className="timeline">
         <div className="timeline-item">
-          <div className="date">01/24 - present</div>
+          <div className="date">01/24 - 06/24</div>
           <div className="right">
             <div className="post">Security Intern</div>
             <div className="Company">SAG lab, DRDO</div>

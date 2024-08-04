@@ -25,9 +25,10 @@
   margin-bottom: 20px;
 }
 
-/* .org img {
-  height: 90px;
-} */
+.org img {
+  max-height: 120px;
+  max-width: 250px;
+}
 
 .org h4 {
   margin: 0;
