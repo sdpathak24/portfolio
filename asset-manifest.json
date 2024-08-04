@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.b04fb091.css",
-    "main.js": "/portfolio/static/js/main.2a06bbb2.js",
+    "main.css": "/portfolio/static/css/main.4d59c090.css",
+    "main.js": "/portfolio/static/js/main.145226be.js",
     "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
-    "static/media/sarvagn_pathak_resume.pdf": "/portfolio/static/media/sarvagn_pathak_resume.f7846a724944586631ab.pdf",
+    "static/media/netherland_govt.png": "/portfolio/static/media/netherland_govt.7d5e5f7d8785155f2852.png",
+    "static/media/Sarvagn_Pathak_Resume.pdf": "/portfolio/static/media/Sarvagn_Pathak_Resume.7849e2ed8d6ec30e9ec5.pdf",
     "static/media/who.png": "/portfolio/static/media/who.ee4611b7a766c7d37df5.png",
     "static/media/nasa.png": "/portfolio/static/media/nasa.41e8e029625c7ec744ad.png",
     "static/media/uu.png": "/portfolio/static/media/uu.8910770abe7378e2a38e.png",
     "static/media/bu_cert.png": "/portfolio/static/media/bu_cert.c2149e0f957eac7ce739.png",
     "static/media/basf.png": "/portfolio/static/media/basf.18a46aa8b1cf87ec889f.png",
     "index.html": "/portfolio/index.html",
-    "main.b04fb091.css.map": "/portfolio/static/css/main.b04fb091.css.map",
-    "main.2a06bbb2.js.map": "/portfolio/static/js/main.2a06bbb2.js.map",
+    "main.4d59c090.css.map": "/portfolio/static/css/main.4d59c090.css.map",
+    "main.145226be.js.map": "/portfolio/static/js/main.145226be.js.map",
     "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b04fb091.css",
-    "static/js/main.2a06bbb2.js"
+    "static/css/main.4d59c090.css",
+    "static/js/main.145226be.js"
   ]
 }
