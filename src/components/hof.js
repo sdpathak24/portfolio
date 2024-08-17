@@ -6,6 +6,8 @@ import who from "../imgs/who.png";
 import nasa from "../imgs/nasa.png";
 import uu from "../imgs/uu.png";
 import nl_govt from "../imgs/netherland_govt.png";
+import au_govt from "../imgs/australian_govt.png";
+import us_energy from "../imgs/us_energy.png";
 
 const hof = () => {
   return (
@@ -23,6 +25,14 @@ const hof = () => {
         <div className="org">
           <img src={nl_govt} alt="" />
           <h4>Netherland Govt</h4>
+        </div>
+        <div className="org">
+          <img src={au_govt} alt="" />
+          <h4>Australian Govt</h4>
+        </div>
+        <div className="org">
+          <img src={us_energy} alt="" />
+          <h4>U.S. Department of Energy</h4>
         </div>
         <div className="org">
           <img src={bu_cert} alt="" />
